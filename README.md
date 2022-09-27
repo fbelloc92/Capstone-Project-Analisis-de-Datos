@@ -1,6 +1,6 @@
 # Capstone-Project-Analisis-de-Datos
 
 Integrantes:
-Felipe Bello
-Olga Cid
-Roberto Monsalve
+Felipe Bello <br />
+Olga Cid <br />
+Roberto Monsalve <br />

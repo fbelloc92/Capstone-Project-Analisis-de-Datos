@@ -21,4 +21,4 @@ En este repositorio hay 4 carpetas: <br />
 - La carpeta 'output' contiene el informe final del trabajo en formato html.
 <br />
 <br />
-Para ejecutar el código del notebook "1_limpieza.ipynb" se deben descomprimir los dataset encontrados en la carpeta "raw" en la misma carpeta que el notebook y ejecutarlo utílizando JupyterNotebook o JupyterLab. Los notebooks "2_analisis.ipynb" y "3_reporte.ipynb" trabajan utilizando el dataset almacenado en la carpeta "processed", se debe descomprimir y almacenerlo en la misma carpeta que los notebooks, luego ejecutarlos utílizando JupyterNotebook o JupyterLab.
+Para ejecutar el código del notebook "1_limpieza.ipynb" se deben descomprimir los dataset encontrados en la carpeta "raw" en la misma carpeta que el notebook y ejecutarlo utilizando JupyterNotebook o JupyterLab. Los notebooks "2_analisis.ipynb" y "3_reporte.ipynb" trabajan utilizando el dataset almacenado en la carpeta "processed", se debe descomprimir y almacenerlo en la misma carpeta que los notebooks, luego ejecutarlos utilizando JupyterNotebook o JupyterLab.
